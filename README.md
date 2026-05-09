@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300BFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Python+%26+Java+Developer;OOP+%26+Database+Enthusiast;Data+Structure+Learner;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300BFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Web+Development+Student;Front-End+%26+Back-End+Developer;OOP+%26+Database+Enthusiast;Data+Structure+Learner;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 [![views](https://komarev.com/ghpvc/?username=abdeelfattah-codes&label=Profile%20Views&color=0e75b6&style=plastic)](https://github.com/abdeelfattah-codes)
 
@@ -6,12 +6,14 @@
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-- 🎓 I am a Computer Science Student.
-- 💻 Passionate about Python & Java Development.
+- 🎓 I am a Web Development Student.
+- 💻 Passionate about Front-End & Back-End Development.
 - 🧠 Skilled in `OOP`, `Database`, and `Data Structures`.
+- 🌐 Currently learning modern Web Technologies.
 - 🚀 I enjoy building projects and improving my skills every day.
 - 📚 Learning `Software Engineering` and `Problem Solving`.
-- ⚡ My goal is to become a Professional Software Developer.
+- ⚡ My goal is to become a Professional Full Stack Developer.
+- 🚀 Explore my portfolio: [aliyousef-protofolio.netlify.app](https://aliyousef-protofolio.netlify.app)
 
 ---
 
@@ -27,19 +29,26 @@
 # 🛠️ Skills
 
 ## 💻 Programming Languages
+[![Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+---
+
+## 🎨 Front-End Development
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
+---
+
+## ⚙️ Back-End Development
+[![Skills](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev)
 
 ---
 
 ## 🗄️ Database
-
 [![Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ---
 
 ## 🔧 Tools & Technologies
-
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
@@ -47,19 +56,17 @@
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeelfattah-codes&show_icons=true&theme=tokyonight&border_radius=15)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdeelfattah-codes&theme=tokyonight&border_radius=15)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeelfattah-codes&layout=compact&theme=tokyonight&border_radius=15)
 
 ---
 
 # 🚀 Current Goals
 
-- 📌 Become a Professional Software Developer.
-- 📌 Master OOP & Data Structures.
+- 📌 Become a Professional Full Stack Developer.
 - 📌 Build Real World Projects.
 - 📌 Improve Problem Solving Skills.
+- 📌 Learn Advanced Back-End Development.
 - 📌 Participate in Tech Competitions & Events.
 
 ---
